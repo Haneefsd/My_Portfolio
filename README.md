@@ -48,4 +48,4 @@ Currently, I am pursuing a **Java Full Stack Development course along with AWS**
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://syed-haneef-portfolio.netlify.app/
